@@ -5,7 +5,7 @@ To write a python program to find the Eigenvalues and Eigen Vectors
 1. 	Hardware – PCs
 2. 	Anaconda – Python 3.7 Installation / Moodle-Code Runner
 ## Algorithm:
-### Step1 :
+### Step 1:
 Import numpy as np
 ### Step 2: 
 Assign in np.array() in eigen values and eigen vectors of matrix
